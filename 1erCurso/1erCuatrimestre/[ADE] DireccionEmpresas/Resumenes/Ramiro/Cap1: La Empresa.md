@@ -47,7 +47,7 @@
   - Naturaleza de la actividad económica productiva:
     - Empresas **industriales**: extractivas, transformadoras o manufactureras (consumo final y producción)
     - Empresas **comerciales**: mayoristas, minoristas, y comisionistas
-    - Empresas de **servicios**: servicios personales, comerciales, transporte, hostelería y restauración, cominicaciones, información, empresas financieras y de seguros, sanitarias y enseñanza.
+    - Empresas de **servicios**: servicios personales, comerciales, transporte, hostelería y restauración, comunicaciones, información, empresas financieras y de seguros, sanitarias y enseñanza.
   - Ámbito donde se realizan las actividades: **locales**, **nacionales**, **transnacionales**
 
   - *[Ej]* Paradores de Turismo (1928) es sociedad anónima de capital público
